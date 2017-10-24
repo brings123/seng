@@ -2,7 +2,7 @@ import com.seng.*
 import org.junit.Test
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertArrayEquals
-
+/* this is just a comment */
 class VectorTest {
     @Test fun testSort() {
         assertArrayEquals(
